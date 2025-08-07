@@ -1,4 +1,4 @@
-class Count_ones {
+class CountOnes {
     public static void main(String[] java){
         int[][] ones = {{0,1,1,1,0},{0,1,0,1,0,1},{1,0}};
         int count = 0;

@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-class Word_builder{
+class WordBuilder{
     public static void main(String[] args){
         String[] arr = {"a","b","c","d"};
         System.out.println(build(arr));

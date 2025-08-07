@@ -1,4 +1,4 @@
-public class Palindrome_checker {
+class PalindromeChecker {
     public static void main(String[] args){
         String[] s = {"rofl", "lol", "rizz","kayak","deified","racecar"};
         for(String S: s){

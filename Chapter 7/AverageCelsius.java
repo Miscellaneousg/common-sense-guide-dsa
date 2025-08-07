@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-class Average_celsius{
+class AverageCelsius{
     public static void main(String[] args){
         int[] temps  = {112,124,78,96,160};
         System.out.println(String.format("%.2f",averageCelsius(temps))); //personal preference 

@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-class clothing_labels {
+class ClothingLabels {
     public static void main(String[] args){
         String[] labels = {"blue shirt", "purple shirt", "yellow shirt"};
         System.out.println(String.join(", ",mark_invent(labels)));//personal preference 

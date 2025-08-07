@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.*;
-class Get_all_products {
+class GetAllProducts {
     public static void main(String[] args){
         int[] nums = {1,5,6,8,9};
         List<Integer> list = new ArrayList<>();
