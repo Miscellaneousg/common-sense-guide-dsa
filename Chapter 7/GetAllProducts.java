@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.*;
 class GetAllProducts {
     public static void main(String[] args){
