@@ -1,4 +1,4 @@
-# Common-Sense Guide to Data Structures and Algorithms
+# A Common Sense Guide to Data Structures and Algorithms
 
 This is an **unofficial, Java-based companion** to the original book. Not affiliated with the author or publisher.  
 
