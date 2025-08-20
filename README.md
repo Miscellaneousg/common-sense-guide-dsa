@@ -2,9 +2,7 @@
 
 This is an **unofficial, Java-based companion** to the original book. Not affiliated with the author or publisher.  
 
----
-
-## 📂 Contents
+## Contents
 
 - [ ] 01: Why Data Structures Matter  
 - [ ] 02: Why Algorithms Matter  
@@ -13,7 +11,7 @@ This is an **unofficial, Java-based companion** to the original book. Not affili
 - [ ] 05: Optimizing Code with and Without Big O  
 - [ ] 06: Optimizing for Optimistic Scenarios  
 - [x] 07: Big O in Everyday Code  
-- [ ] 08: Blazing Fast Lookup with Hash Tables  
+- [x] 08: Blazing Fast Lookup with Hash Tables  
 - [ ] 09: Crafting Elegant Code with Stacks and Queues  
 - [ ] 10: Recursively Recurse with Recursion  
 - [ ] 11: Learning to Write in Recursive  
@@ -26,9 +24,7 @@ This is an **unofficial, Java-based companion** to the original book. Not affili
 - [ ] 18: Connecting Everything with Graphs  
 - [ ] 19: Dealing with Space Constraints  
 - [ ] 20: Techniques for Code Optimization
----
 
-## 📄 License
-
-This repository is provided for **educational purposes only**.  
-All rights to the original book content belong to **Jay Wengrow** and **The Pragmatic Bookshelf**.
+> [!IMPORTANT]
+>This repository is provided for **educational purposes only**.  
+>All rights to the original book content belong to **Jay Wengrow** and **The Pragmatic Bookshelf**.
