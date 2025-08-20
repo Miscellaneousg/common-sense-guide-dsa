@@ -19,3 +19,6 @@ public class FirstNonDuplicated {
         return "No non-duplicate found";
     }
 }
+//Description: function that returns the first non duplicated character in a string
+//Output: First non duplicate: 'n'
+//Map the complete string to HashMap and count occurrences and then return the first character that doesn't repeat.
