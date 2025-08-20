@@ -20,7 +20,7 @@ class Intersection{
         return list;
     }
 }
-//Description : function that retruns intersection of two arrays
+//Description : function that returns intersection of two arrays
 //Q1 - Page 131 - exercises
 //Output : [2, 4] 
 //Save the set values in the map and then iterate over the alleged subset
